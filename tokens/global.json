@@ -1,0 +1,12 @@
+{
+  "text-2xs": {
+    "value": {
+      "fontSize": "11"
+    },
+    "type": "typography"
+  },
+  "font-sans": {
+    "value": "Inter",
+    "type": "fontFamilies"
+  }
+}
