@@ -3,8 +3,58 @@
     "value": "Inter",
     "type": "fontFamilies"
   },
-  "text-2xs": {
+  "text-heading-1": {
+    "value": {
+      "fontFamily": "{font-sans}",
+      "fontSize": "{font-size-1000}"
+    },
+    "type": "typography"
+  },
+  "font-size-100": {
     "value": "11px",
     "type": "fontSizes"
+  },
+  "font-size-200": {
+    "value": "12px",
+    "type": "fontSizes"
+  },
+  "font-size-300": {
+    "value": "13px",
+    "type": "fontSizes"
+  },
+  "font-size-400": {
+    "value": "14px",
+    "type": "fontSizes"
+  },
+  "font-size-500": {
+    "value": "16px",
+    "type": "fontSizes"
+  },
+  "font-size-600": {
+    "value": "18px",
+    "type": "fontSizes"
+  },
+  "font-size-700": {
+    "value": "20px",
+    "type": "fontSizes"
+  },
+  "font-size-800": {
+    "value": "21px",
+    "type": "fontSizes"
+  },
+  "font-size-900": {
+    "value": "24px",
+    "type": "fontSizes"
+  },
+  "font-size-1000": {
+    "value": "42px",
+    "type": "fontSizes"
+  },
+  "text-heading-2": {
+    "value": {
+      "fontFamily": "{font-sans}",
+      "fontSize": "{font-size-900}"
+    },
+    "type": "typography"
   }
 }
